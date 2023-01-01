@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Vedant-07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Vedant-07/Vedant-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi! My name is Vedant Patel,currently a fourth year student,interested in backend development and devops  . I am passionate about building scalable and reliable systems that power web and mobile applications. I have experience working with a some  of the popular programming languages, frameworks, and databases, and I am always looking to learn new technologies and techniques.
+👋 Hi!!! My name is Vedant Patel,currently a fourth year student,interested in backend development and devops  . I am passionate about building scalable and reliable systems that power web and mobile applications. I have experience working with some of the popular programming languages, frameworks, and databases, and I am always looking to learn new technologies and techniques.
